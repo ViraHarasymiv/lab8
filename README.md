@@ -1,5 +1,5 @@
 # Lab 8: Page Object Model & TestNG
-The project is made by using Page Object Model and TestNG framework. Log4j is used for logging events. All logs are saved in the directory named logs (target/logs/appTest.log).
+  The project is made by using Page Object Model and TestNG framework. Log4j is used for logging events. All logs are saved in the directory named logs (target/logs/appTest.log).
 
 The target website is [BPB PUBLICATIONS](http://practice.bpbonline.com/index.php).
 
