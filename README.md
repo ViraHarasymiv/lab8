@@ -1,8 +1,6 @@
 # Lab 1: Page Object Model & TestNG
 The project is made by using Page Object Model and TestNG framework. Log4j is used for logging events. All logs are saved in the directory named logs (target/logs/appTest.log).
 
-Selenium's source code is made available under the Apache 2.0 license.
-
 The target website is [BPB PUBLICATIONS](http://practice.bpbonline.com/index.php).
 
 - The "DataProvider" annotation is used in order to pass multiple parameters to the Creating New Account test with invalid data. Using DataProviders, we can easily pass multiple values to a test in just one execution cycle.
